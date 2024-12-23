@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sulzer.OrderProcessor", "Sulzer.OrderProcessor\Sulzer.OrderProcessor.csproj", "{CA2F6445-93CA-449E-B000-A1B533A79BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sulzer.OrderProcessor.Tests", "Sulzer.OrderProcessor.Tests\Sulzer.OrderProcessor.Tests.csproj", "{6363230B-9360-43F2-AD1A-526E61CC47E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2F6445-93CA-449E-B000-A1B533A79BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2F6445-93CA-449E-B000-A1B533A79BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2F6445-93CA-449E-B000-A1B533A79BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2F6445-93CA-449E-B000-A1B533A79BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6363230B-9360-43F2-AD1A-526E61CC47E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6363230B-9360-43F2-AD1A-526E61CC47E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6363230B-9360-43F2-AD1A-526E61CC47E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6363230B-9360-43F2-AD1A-526E61CC47E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED71722-5484-41E1-BEDA-63678B4F4092}
+	EndGlobalSection
+EndGlobal
